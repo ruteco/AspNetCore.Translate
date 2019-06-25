@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ruteco</Authors>
+    <PackageProjectUrl>https://github.com/ruteco/AspNetCore.Translate</PackageProjectUrl>
+    <Description>The project inspired by https://github.com/ngx-translate/core 
+</Description>
+    <RepositoryUrl>https://github.com/ruteco/AspNetCore.Translate</RepositoryUrl>
+    <PackageTags>translations, translate</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
