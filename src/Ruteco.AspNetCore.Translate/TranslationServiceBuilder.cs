@@ -25,7 +25,7 @@ namespace Ruteco.AspNetCore.Translate
 
         public TranslationServiceBuilder(IServiceCollection services)
         {
-            Services = services ?? throw new ArgumentNullException(nameof(services)); 
+            Services = services;
         }
 
         public bool Init(string dictionariesLocation)

@@ -17,7 +17,7 @@ namespace Ruteco.AspNetCore.Translate
         /// <summary>
         /// Add ITranslationService and initializes it with path to dictionaries
         /// </summary>
-        /// <param name="services"></param>
+        /// <param name="services">Dependency injection services collection</param>
         /// <param name="dictionariesLocation">Absolute path to directory where .json dictionaries stored</param>
         /// <returns></returns>
         public static ITranslationServiceBuilder AddTranslations(this IServiceCollection services, string dictionariesLocation)
