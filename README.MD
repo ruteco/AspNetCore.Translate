@@ -1,5 +1,5 @@
 ## 1. The Idea and description
-The goal of this procjet is facilitate asp.net backend localization of your sites. It helps to translate texts to different languages by predefined dictionaries.
+The goal of this project is to facilitate asp.net backend localization of your sites. It helps to translate texts to different languages by predefined dictionaries.
 
 It was inspired by [@ngx-translate](https://github.com/ngx-translate/core). 
 The idea is simple: you create dictionaries in form of json files where you store values which will replace translation keys.

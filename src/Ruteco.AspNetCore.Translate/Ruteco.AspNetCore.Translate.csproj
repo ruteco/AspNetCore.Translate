@@ -4,13 +4,15 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Ruteco</Authors>
     <PackageProjectUrl>https://github.com/ruteco/AspNetCore.Translate</PackageProjectUrl>
-    <Description>The project inspired by https://github.com/ngx-translate/core 
+    <Description>The goal of this project is to facilitate asp.net backend localization of your sites. It helps to translate texts to different languages by predefined dictionaries.
+
+It was inspired by @ngx-translate https://github.com/ngx-translate/core 
 </Description>
     <RepositoryUrl>https://github.com/ruteco/AspNetCore.Translate</RepositoryUrl>
     <PackageTags>translations, translate</PackageTags>
-    <AssemblyVersion>1.0.1.1</AssemblyVersion>
-    <FileVersion>1.0.1.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2.1</AssemblyVersion>
+    <FileVersion>1.0.2.1</FileVersion>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
